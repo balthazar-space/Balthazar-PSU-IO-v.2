@@ -4,7 +4,7 @@ Open-hardware laptop computer modules description and concept.
 
 These are electronic schematic modules as presented at https://balthazar.space/wiki/Balthazar with the main aim for team access. See the [main repository](https://github.com/balthazar-space/balthazar) for other designs.
 
-# balthazarPSU2
+# balthazar PSU/IO v.2
 
 Module BalthazarPSU2 is a combined battery charger, buck-boost coverter, stereo power amplifier and usb 2.0 hub. A somehow revised version of BalthazarPSU module, this one has an added usb 2.0 hub based on Microchip USB2514B which was much more readily available in Europe than GL3520 chip.
 We also work on USB 3.0 - due to the chip shortage/availability - we now have to wait.
